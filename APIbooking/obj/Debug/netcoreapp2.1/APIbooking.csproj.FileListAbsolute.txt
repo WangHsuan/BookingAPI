@@ -1,0 +1,14 @@
+C:\Users\wangh\OneDrive\桌面\APIbooking\APIbooking\bin\Debug\netcoreapp2.1\APIbooking.deps.json
+C:\Users\wangh\OneDrive\桌面\APIbooking\APIbooking\bin\Debug\netcoreapp2.1\APIbooking.runtimeconfig.json
+C:\Users\wangh\OneDrive\桌面\APIbooking\APIbooking\bin\Debug\netcoreapp2.1\APIbooking.runtimeconfig.dev.json
+C:\Users\wangh\OneDrive\桌面\APIbooking\APIbooking\bin\Debug\netcoreapp2.1\APIbooking.dll
+C:\Users\wangh\OneDrive\桌面\APIbooking\APIbooking\bin\Debug\netcoreapp2.1\APIbooking.pdb
+C:\Users\wangh\OneDrive\桌面\APIbooking\APIbooking\obj\Debug\netcoreapp2.1\APIbooking.csprojAssemblyReference.cache
+C:\Users\wangh\OneDrive\桌面\APIbooking\APIbooking\obj\Debug\netcoreapp2.1\APIbooking.csproj.CoreCompileInputs.cache
+C:\Users\wangh\OneDrive\桌面\APIbooking\APIbooking\obj\Debug\netcoreapp2.1\APIbooking.RazorAssemblyInfo.cache
+C:\Users\wangh\OneDrive\桌面\APIbooking\APIbooking\obj\Debug\netcoreapp2.1\APIbooking.RazorAssemblyInfo.cs
+C:\Users\wangh\OneDrive\桌面\APIbooking\APIbooking\obj\Debug\netcoreapp2.1\APIbooking.AssemblyInfoInputs.cache
+C:\Users\wangh\OneDrive\桌面\APIbooking\APIbooking\obj\Debug\netcoreapp2.1\APIbooking.AssemblyInfo.cs
+C:\Users\wangh\OneDrive\桌面\APIbooking\APIbooking\obj\Debug\netcoreapp2.1\APIbooking.RazorTargetAssemblyInfo.cache
+C:\Users\wangh\OneDrive\桌面\APIbooking\APIbooking\obj\Debug\netcoreapp2.1\APIbooking.dll
+C:\Users\wangh\OneDrive\桌面\APIbooking\APIbooking\obj\Debug\netcoreapp2.1\APIbooking.pdb
