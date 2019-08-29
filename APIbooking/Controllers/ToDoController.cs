@@ -11,11 +11,6 @@ using Microsoft.EntityFrameworkCore;
 using System.Net.Http;
 using System.Web.Http;
 using System.Web.Http.Cors;
-
-
-
-
-using APIbooking.Services;
 using System.Text;
 using System.IO;
 using System.Net;
@@ -95,46 +90,21 @@ namespace APIbooking.Controllers
             return await _context.TodoItems.ToListAsync();
         }
 
-        //// GET: api/Todo/5
-        //[HttpGet("{id}")]
-        //public async Task<ActionResult<TodoItem>> GetTodoItem(long id)
-        //{
-        //    var todoItem = await _context.TodoItems.FindAsync(id);
 
-        //    if (todoItem == null)
-        //    {
-        //        return NotFound();
-        //    }
-
-        //    return todoItem;
-        //}
 
         //Post
-        //[System.Web.Http.HttpPost]
-        //public async Task<ActionResult<TodoItem>> PostTodoItem(TodoItem item) {
+        //[Microsoft.AspNetCore.Mvc.HttpPost]
+        //public async Task<ActionResult<TodoItem>> PostTodoItem(TodoItem item)
+        //{
         //    _context.TodoItems.Add(item);
         //    await _context.SaveChangesAsync();
 
         //    return CreatedAtAction(nameof(GetTodoItem), new { id = item.Id }, item);
         //}
 
-        //// PUT: api/Todo/5
-        //[HttpPut("{id}")]
-        //public async Task<IActionResult> PutTodoItem(long id, TodoItem item)
-        //{
-        //    if (id != item.Id)
-        //    {
-        //        return BadRequest();
-        //    }
-
-        //    _context.Entry(item).State = EntityState.Modified;
-        //    await _context.SaveChangesAsync();
-
-        //    return NoContent();
-        //}
-
-        //// DELETE: api/Todo/5
-        //[HttpDelete("{id}")]
+        
+        // DELETE: api/Todo/5
+        //[Microsoft.AspNetCore.Mvc.HttpDelete]
         //public async Task<IActionResult> DeleteTodoItem(long id)
         //{
         //    var todoItem = await _context.TodoItems.FindAsync(id);
@@ -143,6 +113,8 @@ namespace APIbooking.Controllers
         //    {
         //        return NotFound();
         //    }
+
+            
 
         //    _context.TodoItems.Remove(todoItem);
         //    await _context.SaveChangesAsync();
